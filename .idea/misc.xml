@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android Projects/NewsHunt/app/src/main/res/drawable/ic_splash_image.xml" value="0.1609375" />
+        <entry key="..\:/Android Projects/NewsHunt/app/src/main/res/drawable/news_card_decoration.xml" value="0.1" />
+        <entry key="..\:/Android Projects/NewsHunt/app/src/main/res/drawable/splash_background.xml" value="0.1" />
+        <entry key="..\:/Android Projects/NewsHunt/app/src/main/res/layout/activity_main.xml" value="0.1796875" />
+        <entry key="..\:/Android Projects/NewsHunt/app/src/main/res/layout/fragment_business.xml" value="0.1796875" />
+        <entry key="..\:/Android Projects/NewsHunt/app/src/main/res/layout/fragment_education.xml" value="0.1796875" />
+        <entry key="..\:/Android Projects/NewsHunt/app/src/main/res/layout/fragment_science.xml" value="0.1796875" />
+        <entry key="..\:/Android Projects/NewsHunt/app/src/main/res/layout/fragment_sports.xml" value="0.1796875" />
+        <entry key="..\:/Android Projects/NewsHunt/app/src/main/res/layout/fragment_technology.xml" value="0.1796875" />
+        <entry key="..\:/Android Projects/NewsHunt/app/src/main/res/layout/loading_screen.xml" value="0.17314814814814813" />
+        <entry key="..\:/Android Projects/NewsHunt/app/src/main/res/layout/news_feed.xml" value="0.1796875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
